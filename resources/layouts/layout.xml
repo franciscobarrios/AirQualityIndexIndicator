@@ -11,7 +11,7 @@
 
 	<label id="city" x="center" y="160" font="Gfx.FONT_SMALL"
 		justification="Gfx.TEXT_JUSTIFY_CENTER" />
-	
+
 	<drawable id="face"></drawable>
-	
+
 </layout>
