@@ -1,0 +1,17 @@
+<layout id="MainLayout">
+
+	<label id="temp" x="center" y="60" font="Gfx.FONT_SMALL"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+
+	<label id="hum" x="center" y="80" font="Gfx.FONT_SMALL"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+
+	<label id="aqi" x="center" y="center" font="Gfx.FONT_LARGE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+	<label id="city" x="center" y="160" font="Gfx.FONT_SMALL"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	
+	<drawable id="face"></drawable>
+	
+</layout>

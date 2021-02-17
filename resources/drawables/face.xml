@@ -1,0 +1,5 @@
+<drawable-list id="face">
+	<shape type="rectangle" x="center" y="155" width="100%"
+		height="1%" border_width="0.5" border_color="333333" color="000000" />
+</drawable-list>
+
