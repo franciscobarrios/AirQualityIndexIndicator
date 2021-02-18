@@ -58,27 +58,30 @@
         <entry filename="Rez" id="19" lineNum="11" pc="268436540" symbol="initialize"/>
         <entry filename="Rez" id="19" lineNum="12" pc="268436544" symbol="initialize"/>
         <entry filename="Rez" id="20" lineNum="15" pc="268436569" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="17" pc="268436573" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="18" pc="268436602" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="19" pc="268436634" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="20" pc="268436663" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="22" pc="268436695" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="23" pc="268436724" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="24" pc="268436756" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="25" pc="268436785" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="27" pc="268436817" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="28" pc="268436846" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="29" pc="268436878" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="30" pc="268436907" symbol="draw"/>
-        <entry filename="Rez" id="24" lineNum="47" pc="268436940" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="49" pc="268436952" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="50" pc="268437085" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="51" pc="268437218" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="52" pc="268437331" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="53" pc="268437444" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="54" pc="268437484" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="55" pc="268437497" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="58" pc="268437513" symbol="MainLayout"/>
+        <entry filename="Rez" id="20" lineNum="16" pc="268436573" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="17" pc="268436586" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="20" pc="268436599" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="21" pc="268436628" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="22" pc="268436714" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="23" pc="268436743" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="25" pc="268436847" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="26" pc="268436876" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="27" pc="268436962" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="28" pc="268436991" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="30" pc="268437095" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="31" pc="268437124" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="32" pc="268437210" symbol="draw"/>
+        <entry filename="Rez" id="20" lineNum="33" pc="268437239" symbol="draw"/>
+        <entry filename="Rez" id="24" lineNum="50" pc="268437344" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="52" pc="268437356" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="54" pc="268437369" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="55" pc="268437502" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="56" pc="268437635" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="57" pc="268437751" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="58" pc="268437867" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="59" pc="268437907" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="60" pc="268437920" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="63" pc="268437936" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -176,13 +179,16 @@
         <entry endPc="268436539" name="location" stackId="1" startPc="268436487"/>
         <entry endPc="268436539" name="lat" stackId="2" startPc="268436487"/>
         <entry endPc="268436539" name="lon" stackId="3" startPc="268436487"/>
-        <entry arg="true" endPc="268436940" name="dc" stackId="1" startPc="268436569"/>
-        <entry endPc="268437570" name="rez_cmp_local_custom_drawable_face" stackId="6" startPc="268436952"/>
-        <entry endPc="268437570" name="rez_cmp_local_text_city" stackId="5" startPc="268436952"/>
-        <entry endPc="268437570" name="rez_cmp_local_text_temp" stackId="2" startPc="268436952"/>
-        <entry endPc="268437570" name="rez_cmp_local_text_hum" stackId="3" startPc="268436952"/>
-        <entry endPc="268437570" name="rez_cmp_local_text_aqi" stackId="4" startPc="268436952"/>
-        <entry arg="true" endPc="268437571" name="dc" stackId="1" startPc="268436940"/>
+        <entry endPc="268437343" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436573"/>
+        <entry endPc="268437343" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436573"/>
+        <entry arg="true" endPc="268437344" name="dc" stackId="1" startPc="268436569"/>
+        <entry endPc="268437993" name="rez_cmp_local_custom_drawable_face" stackId="7" startPc="268437356"/>
+        <entry endPc="268437993" name="rez_cmp_local_text_city" stackId="6" startPc="268437356"/>
+        <entry endPc="268437993" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437356"/>
+        <entry endPc="268437993" name="rez_cmp_local_text_temp" stackId="3" startPc="268437356"/>
+        <entry endPc="268437993" name="rez_cmp_local_text_hum" stackId="4" startPc="268437356"/>
+        <entry endPc="268437993" name="rez_cmp_local_text_aqi" stackId="5" startPc="268437356"/>
+        <entry arg="true" endPc="268437994" name="dc" stackId="1" startPc="268437344"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
