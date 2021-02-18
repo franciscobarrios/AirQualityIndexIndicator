@@ -6,6 +6,10 @@ class AirQualityIndexIndicatorView extends WatchUi.View {
     hidden var _temp;
     hidden var _hum;
     hidden var _aqi;
+    hidden var txtTemp;
+    hidden var txtHum;
+    hidden var txtAqi;
+    hidden var txtCity;
     
     function initialize(city, temp, hum, aqi) {
         View.initialize();
@@ -17,13 +21,17 @@ class AirQualityIndexIndicatorView extends WatchUi.View {
 
     function onLayout(dc) {
         setLayout(Rez.Layouts.MainLayout(dc));
-        View.findDrawableById("city").setText(_city.toString());
-		View.findDrawableById("temp").setText(_temp.toString());
-		View.findDrawableById("hum").setText(_hum.toString());
-		View.findDrawableById("aqi").setText(_aqi.toString());
+		txtTemp = View.findDrawableById("temp");
+		txtHum  = View.findDrawableById("hum");
+		txtAqi  = View.findDrawableById("aqi");
+		txtCity = View.findDrawableById("city");
     }
 
     function onShow() {
+    	txtTemp.setText(_temp.toString()+"°C");
+    	txtHum.setText(_hum.toString()+"%");
+    	txtAqi.setText(_aqi.toString());
+    	txtCity.setText(_city.toString());
     }
 
     function onUpdate(dc) {

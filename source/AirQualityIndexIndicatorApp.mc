@@ -30,21 +30,21 @@ class AirQualityIndexIndicatorApp extends Application.AppBase {
     }
 
 	function onReceive(responseCode, data) {
-       if(responseCode==200){
-	       var jsonInfo = data;
-	       var jsonData = jsonInfo.get("data");
+       if(responseCode == 200){
+	       var jsonInfo			= data;
+	       var jsonData			= jsonInfo.get("data");
 	       
-	       var jsonCity = jsonData.get("city");
-	       var jsonState = jsonData.get("state");
-	       var city= jsonCity+",\n "+jsonState;
+	       var jsonCity			= jsonData.get("city");
+	       var jsonState 		= jsonData.get("state");
+	       var city				= jsonCity+",\n "+jsonState;
 	       
-	       var jsonCurrent = jsonData.get("current");
-	       var jsonPollution = jsonCurrent.get("pollution");
-	       var aqiUs = "AQI: "+jsonPollution.get("aqius");
+	       var jsonCurrent		= jsonData.get("current");
+	       var jsonPollution	= jsonCurrent.get("pollution");
+	       var aqiUs 			= "AQI: "+jsonPollution.get("aqius");
 	       
-	       var jsonWeather = jsonCurrent.get("weather");
-	       var temp = "temp: "+jsonWeather.get("tp");
-	       var hum = "hum:  "+jsonWeather.get("hu");
+	       var jsonWeather		= jsonCurrent.get("weather");
+	       var temp				= "T: "+jsonWeather.get("tp");
+	       var hum 				= "H:  "+jsonWeather.get("hu");
 	       	    
 	       Ui.switchToView(new AirQualityIndexIndicatorView(city,temp,hum,aqiUs), null, Ui.SLIDE_IMMEDIATE);
        }
