@@ -26,32 +26,76 @@ class AirQualityIndexIndicatorApp extends Application.AppBase {
     }
 
     function getInitialView() {
-        return [new AirQualityIndexIndicatorView("","","","")];
+        return [new AirQualityIndexIndicatorView("","","","","")];
     }
 
 	function onReceive(responseCode, data) {
-       if(responseCode == 200){
-	       var jsonInfo			= data;
-	       var jsonData			= jsonInfo.get("data");
+		//System.println(data);
+		if(responseCode == 200){
+       		
+	       	var jsonInfo		= data;
+	       	var jsonData		= jsonInfo.get("data");
 	       
-	       var jsonCity			= jsonData.get("city");
-	       var jsonState 		= jsonData.get("state");
-	       var city				= jsonCity+",\n "+jsonState;
+	       	var jsonCity		= jsonData.get("city");
+	       	var jsonState 		= jsonData.get("state");
+	       	var city			= jsonCity+",\n "+jsonState;
 	       
-	       var jsonCurrent		= jsonData.get("current");
-	       var jsonPollution	= jsonCurrent.get("pollution");
-	       var aqiUs 			= "AQI: "+jsonPollution.get("aqius");
+	       	var jsonCurrent		= jsonData.get("current");
+	       	var jsonPollution	= jsonCurrent.get("pollution");
+	       	var	aqiUs 			= jsonPollution.get("aqius");
 	       
-	       var jsonWeather		= jsonCurrent.get("weather");
-	       var temp				= "T: "+jsonWeather.get("tp");
-	       var hum 				= "H:  "+jsonWeather.get("hu");
-	       	    
-	       Ui.switchToView(new AirQualityIndexIndicatorView(city,temp,hum,aqiUs), null, Ui.SLIDE_IMMEDIATE);
-       }
+	       	var jsonWeather		= jsonCurrent.get("weather");
+	       	var temp			= jsonWeather.get("tp");
+	       	var hum 			= jsonWeather.get("hu");
+	       	var aqiColor 		= setAqiColor(aqiUs.toNumber());
+	       	       	    
+	       	Ui.switchToView(new AirQualityIndexIndicatorView(
+	       		temp,
+	       		hum,
+	       		aqiUs,
+	       		aqiColor,
+	       		city
+	       	), null, Ui.SLIDE_IMMEDIATE);
+		}
    	}
     
+    function setAqiColor(aqi){
+    	var color;
+    	
+    	if(aqi>=0 && aqi <=50){
+    		color = "green";
+    		
+    	}else if(aqi>50 && aqi<100){
+    		color = "yellow";
+    		
+    	}else if(aqi>100 && aqi<150){
+    		color = "orange";
+    		
+    	}else if(aqi>150 && aqi<200){
+    		color = "red";
+    		
+    	}else if(aqi>200 && aqi<250){
+    		color = "purple";
+    		
+    	}else{
+    		color = "dark_red";
+    	} 
+    	
+    	return color;
+    }
+    
     function makeRequest(lat, lon){
-    	var url= URL_BASE + "lat=" + lat + "lon=" + lon + "&key=" + KEY;
+    
+    	// Villarrica  -39.21703484861341, -72.24387544507489
+    	// var url= URL_BASE + "lat=-39.21703484861341&lon=-72.24387544507489" + "&key=" + KEY;
+    	
+    	// Reykjavík 64.18513020159337, -21.728636234635115
+    	// var url= URL_BASE + "lat=64.18513020159337&lon=-21.728636234635115" + "&key=" + KEY;
+    	
+    	// Mumbai 19.117931689682074, 72.89133494744027
+    	// var url= URL_BASE + "lat=19.117931689682074&lon=72.89133494744027" + "&key=" + KEY;
+    	
+    	var url= URL_BASE + "lat=" + lat + "&lon=" + lon + "&key=" + KEY;
     	var params =null;
     	var options = {
 			:method       => Communications.HTTP_REQUEST_METHOD_GET,
