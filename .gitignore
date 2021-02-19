@@ -1,5 +1,3 @@
-/AirQualityIndexIndicator.iq
-bin/AirQualityIndexIndicator.prg.debug.xml
-bin/AirQualityIndexIndicator.prg
-bin/AirQualityIndexIndicator.prg
-bin/AirQualityIndexIndicator.prg.debug.xml
+bin/*
+/*.iq
+.DS_Store
