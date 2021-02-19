@@ -1,13 +1,13 @@
 <layout id="MainLayout">
 
-    <!-- HUM AND TEMP -->
-	<label id="temp" x="70" y="40" font="Gfx.FONT_SMALL"
+	<!-- HUM AND TEMP -->
+	<label id="temp" x="70" y="40" font="Gfx.FONT_XTINY"
 		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
 
-	<label id="hum" x="184" y="40" font="Gfx.FONT_SMALL"
+	<label id="hum" x="184" y="40" font="Gfx.FONT_XTINY"
 		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
 	<!-- HUM AND TEMP -->
-	
+
 
 	<!-- AQI -->
 	<label id="aqi" x="center" y="98" font="Gfx.FONT_LARGE"
@@ -16,7 +16,7 @@
 
 
 	<!-- CITY -->
-	<label id="city" x="center" y="160" font="Gfx.FONT_SMALL"
+	<label id="city" x="center" y="160" font="Gfx.FONT_XTINY"
 		justification="Gfx.TEXT_JUSTIFY_CENTER" />
 	<!-- CITY -->
 

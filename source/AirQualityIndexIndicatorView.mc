@@ -9,13 +9,13 @@ class AirQualityIndexIndicatorView extends WatchUi.View {
     hidden var _aqiColor;
     hidden var _city;
     hidden var txtTemp;
-    hidden var txtHum;
+	hidden var txtHum;
     hidden var txtAqi;
     hidden var txtCity;
     
     function initialize(temp, hum, aqi, aqiColor, city) {
         View.initialize();
-		_temp 		= temp;
+		_temp 		= temp;			 
 		_hum 		= hum;
 		_aqi 		= aqi;
 		_aqiColor 	= aqiColor;
