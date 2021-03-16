@@ -14,7 +14,7 @@ class AirQualityIndexIndicatorApp extends Application.AppBase {
   function initialize() { AppBase.initialize(); }
 
   function onStart(state) {
-    Position.enableLocationEvents(Position.LOCATION_ONE_SHOT,method(: onPosition));
+    Position.enableLocationEvents(Position.LOCATION_ONE_SHOT,method(:onPosition));
     makeRequest(_lat, _lon);
     onPosition();
   }
@@ -94,8 +94,8 @@ class AirQualityIndexIndicatorApp extends Application.AppBase {
 			:method       => Communications.HTTP_REQUEST_METHOD_GET,
          	:responseType => Communications.HTTP_RESPONSE_CONTENT_TYPE_JSON
     	};
-    var responseCallback = method( : onReceive);
-    Communications.makeWebRequest(url, params, options, method( : onReceive));
+    var responseCallback = method(:onReceive);
+    Communications.makeWebRequest(url, params, options, method(:onReceive));
   }
 
   function onPosition() {
