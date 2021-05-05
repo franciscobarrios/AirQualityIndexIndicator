@@ -2,214 +2,261 @@
 <debugInfo>
     <manifest filename="/Users/francisco/eclipse/AirQualityIndexIndicator/manifest.xml"/>
     <pcToLineNum>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="16" pc="268435478" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="17" pc="268435488" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="18" pc="268435498" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="19" pc="268435508" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="22" pc="268435519" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="23" pc="268435523" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="24" pc="268435560" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="25" pc="268435590" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="26" pc="268435620" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="27" pc="268435650" symbol="onLayout"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="30" pc="268435681" symbol="onShow"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="31" pc="268435685" symbol="onShow"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="32" pc="268435726" symbol="onShow"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="33" pc="268435767" symbol="onShow"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="34" pc="268435802" symbol="onShow"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="6" lineNum="37" pc="268435838" symbol="onUpdate"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="6" lineNum="38" pc="268435842" symbol="onUpdate"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="7" lineNum="41" pc="268435863" symbol="onHide"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="9" lineNum="15" pc="268435868" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="9" lineNum="16" pc="268435872" symbol="initialize"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="19" pc="268435891" symbol="onStart"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="20" pc="268435895" symbol="onStart"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="21" pc="268435939" symbol="onStart"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="22" pc="268435967" symbol="onStart"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="11" lineNum="25" pc="268435980" symbol="onStop"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="12" lineNum="28" pc="268435985" symbol="getInitialView"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="12" lineNum="29" pc="268435989" symbol="getInitialView"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="32" pc="268436047" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="33" pc="268436051" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="34" pc="268436062" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="35" pc="268436066" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="37" pc="268436084" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="38" pc="268436102" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="39" pc="268436120" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="41" pc="268436133" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="42" pc="268436151" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="43" pc="268436169" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="45" pc="268436193" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="46" pc="268436211" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="47" pc="268436235" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="49" pc="268436259" symbol="onReceive"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="53" pc="268436322" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="54" pc="268436326" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="55" pc="268436369" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="56" pc="268436372" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="60" pc="268436424" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="61" pc="268436442" symbol="makeRequest"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="64" pc="268436483" symbol="onPosition"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="65" pc="268436487" symbol="onPosition"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="66" pc="268436519" symbol="onPosition"/>
-        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="67" pc="268436529" symbol="onPosition"/>
-        <entry filename="Rez" id="19" lineNum="11" pc="268436540" symbol="initialize"/>
-        <entry filename="Rez" id="19" lineNum="12" pc="268436544" symbol="initialize"/>
-        <entry filename="Rez" id="20" lineNum="15" pc="268436569" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="16" pc="268436573" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="17" pc="268436586" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="20" pc="268436599" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="21" pc="268436628" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="22" pc="268436714" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="23" pc="268436743" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="25" pc="268436847" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="26" pc="268436876" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="27" pc="268436962" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="28" pc="268436991" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="30" pc="268437095" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="31" pc="268437124" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="32" pc="268437210" symbol="draw"/>
-        <entry filename="Rez" id="20" lineNum="33" pc="268437239" symbol="draw"/>
-        <entry filename="Rez" id="24" lineNum="50" pc="268437344" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="52" pc="268437356" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="54" pc="268437369" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="55" pc="268437502" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="56" pc="268437635" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="57" pc="268437751" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="58" pc="268437867" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="59" pc="268437907" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="60" pc="268437920" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="63" pc="268437936" symbol="MainLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="16" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="17" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="18" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="19" pc="268435488" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="20" pc="268435498" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="21" pc="268435508" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="3" lineNum="22" pc="268435518" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="25" pc="268435529" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="26" pc="268435533" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="27" pc="268435570" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="28" pc="268435600" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="29" pc="268435630" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="30" pc="268435660" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="32" pc="268435690" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="33" pc="268435713" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="34" pc="268435736" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="4" lineNum="35" pc="268435759" symbol="onLayout"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="38" pc="268435783" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="39" pc="268435787" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="40" pc="268435834" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="41" pc="268435881" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="43" pc="268435922" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="44" pc="268435935" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="46" pc="268436070" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="47" pc="268436100" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="49" pc="268436103" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="50" pc="268436133" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="52" pc="268436136" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="53" pc="268436166" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="55" pc="268436169" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="56" pc="268436199" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="58" pc="268436202" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="59" pc="268436232" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="61" pc="268436235" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="62" pc="268436265" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="5" lineNum="66" pc="268436271" symbol="onShow"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="6" lineNum="69" pc="268436307" symbol="onUpdate"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="6" lineNum="70" pc="268436311" symbol="onUpdate"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorView.mc" id="7" lineNum="73" pc="268436332" symbol="onHide"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="9" lineNum="14" pc="268436337" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="9" lineNum="14" pc="268436341" symbol="initialize"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="16" pc="268436360" symbol="onStart"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="17" pc="268436364" symbol="onStart"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="18" pc="268436408" symbol="onStart"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="10" lineNum="19" pc="268436436" symbol="onStart"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="11" lineNum="22" pc="268436449" symbol="onStop"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="12" lineNum="24" pc="268436454" symbol="getInitialView"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="12" lineNum="25" pc="268436458" symbol="getInitialView"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="28" pc="268436521" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="30" pc="268436525" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="31" pc="268436536" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="32" pc="268436540" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="34" pc="268436558" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="35" pc="268436576" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="36" pc="268436594" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="38" pc="268436607" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="39" pc="268436625" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="40" pc="268436643" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="42" pc="268436661" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="43" pc="268436679" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="44" pc="268436697" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="45" pc="268436715" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="13" lineNum="47" pc="268436739" symbol="onReceive"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="53" pc="268436804" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="54" pc="268436808" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="56" pc="268436808" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="57" pc="268436833" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="59" pc="268436843" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="60" pc="268436868" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="62" pc="268436878" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="63" pc="268436903" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="65" pc="268436913" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="66" pc="268436938" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="68" pc="268436948" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="69" pc="268436973" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="72" pc="268436983" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="14" lineNum="75" pc="268436990" symbol="setAqiColor"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="78" pc="268436994" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="91" pc="268436998" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="92" pc="268437041" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="93" pc="268437044" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="97" pc="268437096" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="15" lineNum="98" pc="268437114" symbol="makeRequest"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="16" lineNum="101" pc="268437155" symbol="onPosition"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="16" lineNum="102" pc="268437159" symbol="onPosition"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="16" lineNum="103" pc="268437191" symbol="onPosition"/>
+        <entry filename="/Users/francisco/eclipse/AirQualityIndexIndicator/source/AirQualityIndexIndicatorApp.mc" id="16" lineNum="104" pc="268437201" symbol="onPosition"/>
+        <entry filename="Rez" id="20" lineNum="12" pc="268437212" symbol="initialize"/>
+        <entry filename="Rez" id="20" lineNum="13" pc="268437216" symbol="initialize"/>
+        <entry filename="Rez" id="21" lineNum="16" pc="268437241" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="17" pc="268437245" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="18" pc="268437258" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="21" pc="268437271" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="22" pc="268437300" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="23" pc="268437377" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="24" pc="268437406" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="26" pc="268437495" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="27" pc="268437524" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="28" pc="268437610" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="29" pc="268437639" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="31" pc="268437743" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="32" pc="268437772" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="33" pc="268437858" symbol="draw"/>
+        <entry filename="Rez" id="21" lineNum="34" pc="268437887" symbol="draw"/>
+        <entry filename="Rez" id="25" lineNum="52" pc="268437992" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="54" pc="268438004" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="56" pc="268438017" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="57" pc="268438150" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="58" pc="268438283" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="59" pc="268438399" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="60" pc="268438515" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="61" pc="268438555" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="62" pc="268438568" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="65" pc="268438584" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="18" symbol="txtHum"/>
-        <entry field="true" id="14" symbol="_temp"/>
-        <entry field="true" id="20" symbol="txtCity"/>
+        <entry field="true" id="19" symbol="txtHum"/>
+        <entry field="true" id="13" symbol="_temp"/>
+        <entry field="true" id="16" symbol="_aqiColor"/>
+        <entry field="true" id="21" symbol="txtCity"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry id="30" method="true" symbol="MainLayout"/>
-        <entry field="true" id="19" symbol="txtAqi"/>
-        <entry id="25" method="true" symbol="onPosition"/>
+        <entry id="32" method="true" symbol="MainLayout"/>
+        <entry id="25" method="true" symbol="setAqiColor"/>
+        <entry field="true" id="20" symbol="txtAqi"/>
+        <entry id="27" method="true" symbol="onPosition"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="33" symbol="AppName"/>
+        <entry field="true" id="35" symbol="AppName"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
-        <entry field="true" id="17" symbol="txtTemp"/>
-        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="18" symbol="txtTemp"/>
+        <entry id="8388772" module="true" symbol="Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8388771" module="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry field="true" id="15" symbol="_hum"/>
-        <entry id="27" module="true" symbol="Menus"/>
+        <entry field="true" id="14" symbol="_hum"/>
+        <entry id="29" module="true" symbol="Menus"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry id="8389349" symbol="justification"/>
-        <entry id="24" method="true" symbol="makeRequest"/>
+        <entry id="26" method="true" symbol="makeRequest"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="16" symbol="_aqi"/>
+        <entry field="true" id="15" symbol="_aqi"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="12" object="true" symbol="AirQualityIndexIndicatorApp"/>
         <entry id="8389844" symbol="responseType"/>
         <entry id="8388786" method="true" symbol="method"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388769" module="true" symbol="Rez"/>
         <entry field="true" id="10" symbol="URL_BASE"/>
-        <entry id="23" method="true" symbol="onReceive"/>
-        <entry id="29" object="true" symbol="face"/>
-        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="24" method="true" symbol="onReceive"/>
+        <entry id="31" object="true" symbol="face"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="28" symbol="LauncherIcon"/>
+        <entry field="true" id="30" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388770" module="true" symbol="Strings"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="22" symbol="_lon"/>
-        <entry field="true" id="13" symbol="_city"/>
+        <entry field="true" id="23" symbol="_lon"/>
+        <entry field="true" id="17" symbol="_city"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="31" symbol="lbl_temp"/>
+        <entry field="true" id="33" symbol="lbl_temp"/>
         <entry id="9" object="true" symbol="AirQualityIndexIndicatorView"/>
-        <entry field="true" id="21" symbol="_lat"/>
-        <entry id="26" module="true" symbol="Layouts"/>
+        <entry field="true" id="22" symbol="_lat"/>
+        <entry id="28" module="true" symbol="Layouts"/>
         <entry field="true" id="11" symbol="KEY"/>
         <entry id="8388642" module="true" symbol="Position"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry field="true" id="32" symbol="lbl_hum"/>
+        <entry field="true" id="34" symbol="lbl_hum"/>
     </symbolTable>
     <localVars>
-        <entry arg="true" endPc="268435519" name="temp" stackId="2" startPc="268435456"/>
-        <entry arg="true" endPc="268435519" name="hum" stackId="3" startPc="268435456"/>
-        <entry arg="true" endPc="268435519" name="aqi" stackId="4" startPc="268435456"/>
-        <entry arg="true" endPc="268435519" name="city" stackId="1" startPc="268435456"/>
-        <entry arg="true" endPc="268435681" name="dc" stackId="1" startPc="268435519"/>
-        <entry arg="true" endPc="268435863" name="dc" stackId="1" startPc="268435838"/>
-        <entry arg="true" endPc="268435980" name="state" stackId="1" startPc="268435891"/>
-        <entry arg="true" endPc="268435985" name="state" stackId="1" startPc="268435980"/>
-        <entry endPc="268436318" name="jsonState" stackId="6" startPc="268436062"/>
-        <entry endPc="268436318" name="hum" stackId="13" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonPollution" stackId="9" startPc="268436062"/>
-        <entry endPc="268436318" name="aqiUs" stackId="10" startPc="268436062"/>
-        <entry endPc="268436318" name="city" stackId="7" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonInfo" stackId="3" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonWeather" stackId="11" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonCity" stackId="5" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonData" stackId="4" startPc="268436062"/>
-        <entry endPc="268436318" name="temp" stackId="12" startPc="268436062"/>
-        <entry endPc="268436318" name="jsonCurrent" stackId="8" startPc="268436062"/>
-        <entry arg="true" endPc="268436322" name="responseCode" stackId="1" startPc="268436047"/>
-        <entry arg="true" endPc="268436322" name="data" stackId="2" startPc="268436047"/>
-        <entry endPc="268436482" name="options" stackId="5" startPc="268436326"/>
-        <entry endPc="268436482" name="url" stackId="3" startPc="268436326"/>
-        <entry endPc="268436482" name="responseCallback" stackId="6" startPc="268436326"/>
-        <entry endPc="268436482" name="params" stackId="4" startPc="268436326"/>
-        <entry arg="true" endPc="268436483" name="lat" stackId="1" startPc="268436322"/>
-        <entry arg="true" endPc="268436483" name="lon" stackId="2" startPc="268436322"/>
-        <entry endPc="268436539" name="location" stackId="1" startPc="268436487"/>
-        <entry endPc="268436539" name="lat" stackId="2" startPc="268436487"/>
-        <entry endPc="268436539" name="lon" stackId="3" startPc="268436487"/>
-        <entry endPc="268437343" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436573"/>
-        <entry endPc="268437343" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436573"/>
-        <entry arg="true" endPc="268437344" name="dc" stackId="1" startPc="268436569"/>
-        <entry endPc="268437993" name="rez_cmp_local_custom_drawable_face" stackId="7" startPc="268437356"/>
-        <entry endPc="268437993" name="rez_cmp_local_text_city" stackId="6" startPc="268437356"/>
-        <entry endPc="268437993" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268437356"/>
-        <entry endPc="268437993" name="rez_cmp_local_text_temp" stackId="3" startPc="268437356"/>
-        <entry endPc="268437993" name="rez_cmp_local_text_hum" stackId="4" startPc="268437356"/>
-        <entry endPc="268437993" name="rez_cmp_local_text_aqi" stackId="5" startPc="268437356"/>
-        <entry arg="true" endPc="268437994" name="dc" stackId="1" startPc="268437344"/>
+        <entry arg="true" endPc="268435529" name="aqiColor" stackId="4" startPc="268435456"/>
+        <entry arg="true" endPc="268435529" name="temp" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435529" name="hum" stackId="2" startPc="268435456"/>
+        <entry arg="true" endPc="268435529" name="aqi" stackId="3" startPc="268435456"/>
+        <entry arg="true" endPc="268435529" name="city" stackId="5" startPc="268435456"/>
+        <entry arg="true" endPc="268435783" name="dc" stackId="1" startPc="268435529"/>
+        <entry arg="true" endPc="268436332" name="dc" stackId="1" startPc="268436307"/>
+        <entry arg="true" endPc="268436449" name="state" stackId="1" startPc="268436360"/>
+        <entry arg="true" endPc="268436454" name="state" stackId="1" startPc="268436449"/>
+        <entry endPc="268436800" name="jsonState" stackId="6" startPc="268436536"/>
+        <entry endPc="268436800" name="aqiColor" stackId="14" startPc="268436536"/>
+        <entry endPc="268436800" name="hum" stackId="13" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonPollution" stackId="9" startPc="268436536"/>
+        <entry endPc="268436800" name="aqiUs" stackId="10" startPc="268436536"/>
+        <entry endPc="268436800" name="city" stackId="7" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonInfo" stackId="3" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonWeather" stackId="11" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonCity" stackId="5" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonData" stackId="4" startPc="268436536"/>
+        <entry endPc="268436800" name="temp" stackId="12" startPc="268436536"/>
+        <entry endPc="268436800" name="jsonCurrent" stackId="8" startPc="268436536"/>
+        <entry arg="true" endPc="268436804" name="responseCode" stackId="1" startPc="268436521"/>
+        <entry arg="true" endPc="268436804" name="data" stackId="2" startPc="268436521"/>
+        <entry endPc="268436993" name="color" stackId="2" startPc="268436808"/>
+        <entry arg="true" endPc="268436994" name="aqi" stackId="1" startPc="268436804"/>
+        <entry endPc="268437154" name="options" stackId="5" startPc="268436998"/>
+        <entry endPc="268437154" name="url" stackId="3" startPc="268436998"/>
+        <entry endPc="268437154" name="responseCallback" stackId="6" startPc="268436998"/>
+        <entry endPc="268437154" name="params" stackId="4" startPc="268436998"/>
+        <entry arg="true" endPc="268437155" name="lat" stackId="1" startPc="268436994"/>
+        <entry arg="true" endPc="268437155" name="lon" stackId="2" startPc="268436994"/>
+        <entry endPc="268437211" name="location" stackId="1" startPc="268437159"/>
+        <entry endPc="268437211" name="lat" stackId="2" startPc="268437159"/>
+        <entry endPc="268437211" name="lon" stackId="3" startPc="268437159"/>
+        <entry endPc="268437991" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268437245"/>
+        <entry endPc="268437991" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268437245"/>
+        <entry arg="true" endPc="268437992" name="dc" stackId="1" startPc="268437241"/>
+        <entry endPc="268438641" name="rez_cmp_local_custom_drawable_face" stackId="7" startPc="268438004"/>
+        <entry endPc="268438641" name="rez_cmp_local_text_city" stackId="6" startPc="268438004"/>
+        <entry endPc="268438641" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268438004"/>
+        <entry endPc="268438641" name="rez_cmp_local_text_temp" stackId="3" startPc="268438004"/>
+        <entry endPc="268438641" name="rez_cmp_local_text_hum" stackId="4" startPc="268438004"/>
+        <entry endPc="268438641" name="rez_cmp_local_text_aqi" stackId="5" startPc="268438004"/>
+        <entry arg="true" endPc="268438642" name="dc" stackId="1" startPc="268437992"/>
     </localVars>
-    <annotations/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="lbl_temp"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="lbl_hum"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
     <dataEntryOffsetMappings>
-        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="166" parentId="globals" symbolId="AirQualityIndexIndicatorView" type="class"/>
-        <dataEntry offset="309" parentId="globals" symbolId="AirQualityIndexIndicatorApp" type="class"/>
-        <dataEntry offset="420" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="499" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="546" parentId="Drawables" symbolId="face" type="class"/>
-        <dataEntry offset="601" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="632" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="663" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="702" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="733" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/AirQualityIndexIndicatorView" offset="166" parentId="globals" symbolId="AirQualityIndexIndicatorView" type="class"/>
+        <dataEntry label="globals/AirQualityIndexIndicatorApp" offset="317" parentId="globals" symbolId="AirQualityIndexIndicatorApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="436" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="515" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/face" offset="562" parentId="Drawables" symbolId="face" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="617" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="648" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="679" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="718" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="749" parentId="Rez" symbolId="Strings" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="AirQualityIndexIndicatorView">
-            <param id="city"/>
             <param id="temp"/>
             <param id="hum"/>
             <param id="aqi"/>
+            <param id="aqiColor"/>
+            <param id="city"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onLayout" parent="AirQualityIndexIndicatorView">
@@ -243,6 +290,10 @@
         <functionEntry accessMode="public" name="onReceive" parent="AirQualityIndexIndicatorApp">
             <param id="responseCode"/>
             <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setAqiColor" parent="AirQualityIndexIndicatorApp">
+            <param id="aqi"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="makeRequest" parent="AirQualityIndexIndicatorApp">
